@@ -20,5 +20,5 @@ setup(
         "Programming Language :: Python :: 3.6",
     ],
     py_modules=["dataclasses"],
-    python_requires=">=3.10",
+    python_requires=">=3.6, <3.7",
 )
